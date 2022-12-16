@@ -2,7 +2,7 @@
 Simple Tetris written in Java Script
 
 This is a simple JS adaptation of Tetirs. 
-I admit that I don't have much experience playing tetris so some standard gameplay may be missing.
+I admit that I don't have much experience playing Tetris so some standard gameplay may be missing.
 
 **INSTALL:**
 
