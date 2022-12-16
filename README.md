@@ -6,7 +6,13 @@ I admit that I don't have much experience playing Tetris so some standard gamepl
 
 **INSTALL:**
 
-TODO
+*Using git:*
+
+Clone the repo to your local machine and continue onto startup
+
+*Using ZIP (noob mode)*
+
+Click green '<>Code' button then 'Download ZIP' unzip and continue onto startup
 
 **STARTUP:**
 
